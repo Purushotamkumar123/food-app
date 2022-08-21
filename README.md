@@ -1,3 +1,3 @@
 # food-app
-tech stack - HTML, CSS, JAVASCRIPT, API, LOCALSTORAGE
-NETLIFY LINK - https://superlative-halva-fe78dc.netlify.app
+Tech stack - HTML, CSS, JAVASCRIPT, API, LOCALSTORAGE.
+Netlify link- https://superlative-halva-fe78dc.netlify.app
